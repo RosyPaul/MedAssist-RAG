@@ -9,4 +9,5 @@ pypdf
 python-dotenv
 pinecone
 groq
+gunicorn
 -e .
