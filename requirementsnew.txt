@@ -9,4 +9,3 @@ pypdf== 6.9.2
 python-dotenv==1.2.2
 pinecone==7.3.0
 groq==0.37.1
--e .
